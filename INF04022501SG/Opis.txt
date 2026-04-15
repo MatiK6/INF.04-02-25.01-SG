@@ -1,0 +1,4 @@
+Aplikacja mobilna została wykonana w środowisku Android Studio z użyciem języka Kotlin oraz interfejsu XML.
+Umożliwia ona obsługę pralki poprzez wprowadzenie numeru prania (1–12) oraz sterowanie odkurzaczem za pomocą 
+przycisku zmieniającego jego stan. Projekt spełnia wymagania zadania, działa poprawnie i
+został przetestowany na emulatorze.
